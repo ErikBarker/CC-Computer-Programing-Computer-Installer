@@ -1,0 +1,17 @@
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\bin\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.exe
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\bin\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.deps.json
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\bin\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.runtimeconfig.json
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\bin\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.dll
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\bin\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.pdb
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC_Computer_Programing_Computer_Installer.Form1.resources
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.csproj.GenerateResource.cache
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.AssemblyInfoInputs.cache
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.AssemblyInfo.cs
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.csproj.CoreCompileInputs.cache
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.dll
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\refint\CC-Computer-Programing-Computer-Installer.dll
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.pdb
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC-Computer-Programing-Computer-Installer.genruntimeconfig.cache
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\ref\CC-Computer-Programing-Computer-Installer.dll
+C:\dev\CCStuff\CC-Computer-Programing-Computer-Installer\CC-Computer-Programing-Computer-Installer\obj\Debug\net8.0-windows\CC_Computer_Programing_Computer_Installer.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CC-Computer-Programing-Computer-Installer/1.0.0": {
+        "runtime": {
+          "CC-Computer-Programing-Computer-Installer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CC-Computer-Programing-Computer-Installer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
